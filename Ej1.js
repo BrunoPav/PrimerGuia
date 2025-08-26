@@ -41,4 +41,4 @@ function pruebaVarLetConst() {
     console.log(x, y, z)//asi no imprmime nada porque no estoy llamando a la funcion
 }
 console.log(pruebaVarLetConst()) //si llamo a la funcion imprime
-
+console.log(x);//no funciona, x existe dentro de la funcion pruebaVarLetConst al igual que y, z 
